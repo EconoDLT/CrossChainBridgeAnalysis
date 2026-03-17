@@ -22,7 +22,7 @@ RestakingDynamics/
 │
 ├── README.md
 │
-├── bridge_analysis.py                    # Code to analyze the data
+├── bridge_analysis.R                    # Code to analyze the data
 │
 └── data/                                # This folder includes multiple raw data files
 ```
@@ -31,9 +31,9 @@ RestakingDynamics/
 
 ## 1 — Code
 
-### `bridge_analysis.py`
+### `bridge_analysis.R`
 
-The script is written in Python. Fundamental functions are:
+The script is written in R. Fundamental functions are:
 - `lm()` for OLS regression.
 - `VAR()` and `causality()` for Granger-causality test.
 - `randomForest()`, `importance()` and `varImpPlot()` for random forest feature importance test.
