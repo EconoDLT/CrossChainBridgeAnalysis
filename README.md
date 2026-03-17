@@ -34,12 +34,12 @@ RestakingDynamics/
 ### `bridge_analysis.R`
 
 The script is written in R. Fundamental functions are:
-- `lm()` for OLS regression.
-- `VAR()` and `causality()` for Granger-causality test.
-- `randomForest()`, `importance()` and `varImpPlot()` for random forest feature importance test.
-- `anova()` for Chow‑type structural break test
-- `residuals()` to see the regression residuals.
+- `feols()` for fixed effects regression.
+- `lm()` for OLS regression with linear model.
 - `vif()` to see the variance inflation factor, to avoid multicollinearity.
+- `cor()` to calculate the correlation matrix among independent variables.
+- `summary()` to calculate summary statistics.
+- `mutate()` to create new variables. `log()` for logarihmic transformation, `asinh()` for inverse hyperbolic sine (a way to handle negative values like net volume in a log-like fashion).
 
 ---
 
