@@ -1,9 +1,9 @@
 # CrossChainBridgeAnalysis
-**DeFi, Restaking Protocols, and Layered Risks across Interconnected Protocols and Blockchains**
+**Interoperability, Bridge Protocols, Surveying, and Statistical Modelling to Examine the Impact of Bridge Protocols on DeFi/On-Chain Finance**
 
-This repository contains the collected data, the R code used, further explanations and clarifications for the research paper that analyzes the dynamics of the liquid restaking market.
+This repository contains the collected data, the R code used, additional explanations and clarifications for the research paper that analyzes the impact of cross-chain bridge protocols on on-chain financial services.
 
-**Related Skills/Knowledge:** Distributed Systems, Econometrics, Financial Modelling, Crypto-Economic Security (Part of Network Security for Blockchains), Risk Analysis, Attack Simulation.
+**Related Skills/Knowledge:** Interoperability, Distributed Systems, Qualitative Comparison, Econometrics, Statistical Modelling.
 
 ---
 
@@ -22,21 +22,18 @@ RestakingDynamics/
 │
 ├── README.md
 │
-├── restaking_analysis.R                    # Code to analyze the data
+├── bridge_analysis.py                    # Code to analyze the data
 │
-└── data/
-    └── raw_data/                           # This folder includes multiple raw data files
-    └── processed_data/                     # This file is required to run the script
-        └── restaking_processed_data.xlsx
+└── data/                                # This folder includes multiple raw data files
 ```
 
 ---
 
 ## 1 — Code
 
-### `restaking_analysis.R`
+### `bridge_analysis.py`
 
-The script is written in R. Fundamental functions are:
+The script is written in Python. Fundamental functions are:
 - `lm()` for OLS regression.
 - `VAR()` and `causality()` for Granger-causality test.
 - `randomForest()`, `importance()` and `varImpPlot()` for random forest feature importance test.
@@ -48,33 +45,15 @@ The script is written in R. Fundamental functions are:
 
 ## 2 — Data
 
-### Data Overview
+The dataset includes the data of 3 cross-chain bridge protocols (Stargate, Across v2, Hop Protocol) across 6 blockchains (Ethereum, Avalanche, Binance Smart Chain, Polygon, Arbitrum and Optimism).
+Data has a daily frequency and covers the period: 5 May 2022 to 21 February 2024. The period covers the days on which all three protocols have full data availability.
 
-The dataset covers:
-- Eigenlayer data on the Ethereum network,
-- Renzo Protocol data across Ethereum, Arbitrum, Base, Linea, Blast, and Mode networks.
-Data has a daily frequency and covers the period: 22 January 2022 to 17 April 2025. The start date is the first day when Renzo Protocol's LRT (ezETH) is deployed on a layer-2 network.
+Separate raw data files are uploaded to the `data/` folder. The source of protocol data is The Graph. ETH and POL price data are collected from Etherscan and Polygonscan.
 
-### Raw Data
-
-Separate raw data files are uploaded to the `data/raw_data` folder. The source of each data file is written in the folder names.
-E.g.: `/raw_data/restaking_protocool_data_from_the_graph/renzo_arbitrum.json`
-
-### Processed Data
-
-The analyzed dataset is `restaking_processed_data.xlsx`.
-
-The following variables are included in the data files:
+The following variables are included in the dataset:
 - Core Financial Metrics: `Revenue` (Total revenue of Renzo Protocol), `TVL0`, (EigenLayer TVL), `TVL1` (Renzo TVL on Ethereum), `TVL2` (Renzo TVL on L2s),   `Share` (ezETH share in the liquid restaking market), `Premium` (ezETH premium variable), `ETH` (ETH price).
 - Yield Data: `Yield` (ezETH yield rate), `APY` (stETH APY as the benchmark DeFi yield).
 - Market Sentiment: `FGI` (Fear and Greed Index).
 - Network Control Variables: `GasPrice`.
 - Dummy Variable For Tokenization Events: `Events`.
-
-`Events` variable covers:
-- 04/26/2024: Renzo Protocol tokenization announcement,
-- 04/29/2024: EigenLayer tokenization details are announced,
-- 04/30/2024: REZ token was generated,
-- 10/01/2024: EIGEN token was generated.
-
 ---
