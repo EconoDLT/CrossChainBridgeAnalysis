@@ -1,0 +1,5118 @@
+{
+  "data": {
+    "usageMetricsDailySnapshots": [
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 0,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 0,
+        "timestamp": "1653336593"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 34,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 57,
+        "timestamp": "1653423285"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 154,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 211,
+        "timestamp": "1653509808"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 90,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 110,
+        "timestamp": "1653596315"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 125,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 147,
+        "timestamp": "1653682855"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 200,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 216,
+        "timestamp": "1653769356"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 203,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 252,
+        "timestamp": "1653855798"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 174,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 195,
+        "timestamp": "1653942636"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 444,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 507,
+        "timestamp": "1654029049"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 3313,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 3538,
+        "timestamp": "1654115493"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 831,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 948,
+        "timestamp": "1654201981"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 784,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1029,
+        "timestamp": "1654288485"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 520,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 671,
+        "timestamp": "1654374886"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 440,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 582,
+        "timestamp": "1654461377"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 540,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 653,
+        "timestamp": "1654547987"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 384,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 458,
+        "timestamp": "1654634645"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 287,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 372,
+        "timestamp": "1654721350"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 471,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 616,
+        "timestamp": "1654807757"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 384,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 465,
+        "timestamp": "1654894318"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 418,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 483,
+        "timestamp": "1654980897"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 263,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 322,
+        "timestamp": "1655067689"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 162,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 191,
+        "timestamp": "1655154309"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 157,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 245,
+        "timestamp": "1655240852"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 369,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 623,
+        "timestamp": "1655327472"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 354,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 615,
+        "timestamp": "1655413884"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 285,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 575,
+        "timestamp": "1655500315"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 304,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 592,
+        "timestamp": "1655587686"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 412,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 708,
+        "timestamp": "1655674407"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 317,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 517,
+        "timestamp": "1655760847"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 773,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1261,
+        "timestamp": "1655847314"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1970,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 3415,
+        "timestamp": "1655933749"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1479,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2791,
+        "timestamp": "1656020283"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1428,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1715,
+        "timestamp": "1656106687"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 2052,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2383,
+        "timestamp": "1656193204"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 2447,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2912,
+        "timestamp": "1656279615"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 5896,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 6473,
+        "timestamp": "1656366094"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 828,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1139,
+        "timestamp": "1656452497"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 496,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 845,
+        "timestamp": "1656539082"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 236,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 402,
+        "timestamp": "1656626668"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1040,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1679,
+        "timestamp": "1656713120"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 263,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 534,
+        "timestamp": "1656799991"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 206,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 486,
+        "timestamp": "1656887240"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 175,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 360,
+        "timestamp": "1656973714"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 384,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 521,
+        "timestamp": "1657061090"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 247,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 369,
+        "timestamp": "1657147929"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 105,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 171,
+        "timestamp": "1657234617"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 136,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 202,
+        "timestamp": "1657322060"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 139,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 217,
+        "timestamp": "1657409005"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 104,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 182,
+        "timestamp": "1657496110"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 135,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 198,
+        "timestamp": "1657583961"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 97,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 151,
+        "timestamp": "1657672159"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 117,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 188,
+        "timestamp": "1657759105"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 144,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 266,
+        "timestamp": "1657847111"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 132,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 208,
+        "timestamp": "1657934468"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 225,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 377,
+        "timestamp": "1658021338"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 182,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 307,
+        "timestamp": "1658108015"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 174,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 250,
+        "timestamp": "1658194978"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 222,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 359,
+        "timestamp": "1658281440"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 4060,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 7024,
+        "timestamp": "1658367850"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 2108,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 5460,
+        "timestamp": "1658454258"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1156,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2763,
+        "timestamp": "1658540770"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1807,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2853,
+        "timestamp": "1658627268"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 773,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1494,
+        "timestamp": "1658714008"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 584,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 952,
+        "timestamp": "1658800429"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 520,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 802,
+        "timestamp": "1658886901"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 703,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1043,
+        "timestamp": "1658973534"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 829,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1366,
+        "timestamp": "1659059947"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 983,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2065,
+        "timestamp": "1659146353"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 799,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1508,
+        "timestamp": "1659232780"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 728,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1314,
+        "timestamp": "1659319279"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 364,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 693,
+        "timestamp": "1659406128"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 401,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 814,
+        "timestamp": "1659492682"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 400,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 754,
+        "timestamp": "1659579141"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 553,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1085,
+        "timestamp": "1659665574"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 561,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 992,
+        "timestamp": "1659752108"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 561,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1148,
+        "timestamp": "1659838558"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 567,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1152,
+        "timestamp": "1659924975"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 516,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1022,
+        "timestamp": "1660011502"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 423,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 848,
+        "timestamp": "1660097939"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 407,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 797,
+        "timestamp": "1660184813"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 407,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 778,
+        "timestamp": "1660271712"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 339,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 697,
+        "timestamp": "1660358197"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 485,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 741,
+        "timestamp": "1660444861"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 368,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 729,
+        "timestamp": "1660531366"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 532,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1149,
+        "timestamp": "1660617778"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 628,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1301,
+        "timestamp": "1660704280"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 409,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 894,
+        "timestamp": "1660790771"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 425,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1077,
+        "timestamp": "1660877205"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 433,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1213,
+        "timestamp": "1660963641"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 999,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1463,
+        "timestamp": "1661050300"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 422,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 856,
+        "timestamp": "1661136765"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 351,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 671,
+        "timestamp": "1661223709"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 387,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 734,
+        "timestamp": "1661310288"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 550,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 827,
+        "timestamp": "1661396704"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 620,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 931,
+        "timestamp": "1661483168"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 425,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 702,
+        "timestamp": "1661569569"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 404,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 797,
+        "timestamp": "1661656019"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 345,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 647,
+        "timestamp": "1661742514"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 349,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 619,
+        "timestamp": "1661828920"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 431,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 797,
+        "timestamp": "1661915562"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 386,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 647,
+        "timestamp": "1662001963"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 447,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 817,
+        "timestamp": "1662088470"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 855,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1111,
+        "timestamp": "1662174880"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1754,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2217,
+        "timestamp": "1662261282"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 943,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1457,
+        "timestamp": "1662347700"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 902,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1755,
+        "timestamp": "1662434183"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 696,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2051,
+        "timestamp": "1662520855"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 478,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 788,
+        "timestamp": "1662607409"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 450,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 877,
+        "timestamp": "1662693994"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 382,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 714,
+        "timestamp": "1662780496"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 416,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 792,
+        "timestamp": "1662867070"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 385,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 713,
+        "timestamp": "1662953673"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 404,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 715,
+        "timestamp": "1663040334"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 289,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 520,
+        "timestamp": "1663126755"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 278,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 548,
+        "timestamp": "1663218879"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 326,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 695,
+        "timestamp": "1663305296"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 302,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 762,
+        "timestamp": "1663391929"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 302,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 743,
+        "timestamp": "1663478559"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 309,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 858,
+        "timestamp": "1663564960"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 458,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1056,
+        "timestamp": "1663651489"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 720,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1305,
+        "timestamp": "1663737997"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 608,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1117,
+        "timestamp": "1663824634"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 555,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1032,
+        "timestamp": "1663911063"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 470,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 786,
+        "timestamp": "1663997552"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 423,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1111,
+        "timestamp": "1664083964"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 496,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1032,
+        "timestamp": "1664170390"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 363,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 623,
+        "timestamp": "1664256912"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 389,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 635,
+        "timestamp": "1664343322"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 650,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1020,
+        "timestamp": "1664430159"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 843,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1257,
+        "timestamp": "1664516642"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 649,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 995,
+        "timestamp": "1664603072"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 641,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1180,
+        "timestamp": "1664689517"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 510,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 983,
+        "timestamp": "1664776011"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 788,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1186,
+        "timestamp": "1664862597"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1157,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1608,
+        "timestamp": "1664949081"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 417,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 788,
+        "timestamp": "1665035511"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 358,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 831,
+        "timestamp": "1665122054"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 376,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 835,
+        "timestamp": "1665208486"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 427,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 879,
+        "timestamp": "1665294887"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 428,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 780,
+        "timestamp": "1665381360"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 438,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 741,
+        "timestamp": "1665467762"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 926,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1430,
+        "timestamp": "1665554187"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 791,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1579,
+        "timestamp": "1665640611"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 762,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1322,
+        "timestamp": "1665727128"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 924,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1601,
+        "timestamp": "1665813535"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 841,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1643,
+        "timestamp": "1665899959"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 847,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1768,
+        "timestamp": "1665986481"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 827,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1604,
+        "timestamp": "1666072911"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 879,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1637,
+        "timestamp": "1666159332"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1345,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2182,
+        "timestamp": "1666245736"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1099,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1841,
+        "timestamp": "1666332230"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 981,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1700,
+        "timestamp": "1666418644"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 914,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1707,
+        "timestamp": "1666505065"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 970,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2061,
+        "timestamp": "1666591494"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1378,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2419,
+        "timestamp": "1666678009"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1080,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2053,
+        "timestamp": "1666764441"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 3113,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 4096,
+        "timestamp": "1666850884"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 2154,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 3006,
+        "timestamp": "1666937398"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1808,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 3030,
+        "timestamp": "1667023915"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 994,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2067,
+        "timestamp": "1667110335"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 965,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2379,
+        "timestamp": "1667196747"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1277,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 3931,
+        "timestamp": "1667283186"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1743,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 3541,
+        "timestamp": "1667369613"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1180,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2480,
+        "timestamp": "1667456015"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 959,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2092,
+        "timestamp": "1667542497"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1206,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2607,
+        "timestamp": "1667628933"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1386,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2874,
+        "timestamp": "1667715383"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1315,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2614,
+        "timestamp": "1667801833"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 997,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2056,
+        "timestamp": "1667888247"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1575,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2336,
+        "timestamp": "1667974663"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1220,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2194,
+        "timestamp": "1668061069"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1806,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 3569,
+        "timestamp": "1668147475"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1725,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 3127,
+        "timestamp": "1668233881"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1553,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2789,
+        "timestamp": "1668320294"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1563,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 3042,
+        "timestamp": "1668406695"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1796,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 3870,
+        "timestamp": "1668493099"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1690,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 3662,
+        "timestamp": "1668579505"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1973,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 5734,
+        "timestamp": "1668665932"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 2149,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 4013,
+        "timestamp": "1668752335"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 2279,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 4770,
+        "timestamp": "1668838773"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 4457,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 17309,
+        "timestamp": "1668925180"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 3896,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 12578,
+        "timestamp": "1669011593"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 3185,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 9470,
+        "timestamp": "1669098004"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 3234,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 9657,
+        "timestamp": "1669184409"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 3306,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 8343,
+        "timestamp": "1669270815"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 2798,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 6947,
+        "timestamp": "1669357240"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 3262,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 9128,
+        "timestamp": "1669443648"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 2658,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 8803,
+        "timestamp": "1669530060"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 2324,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 6228,
+        "timestamp": "1669616561"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 891,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1765,
+        "timestamp": "1669703048"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 806,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1338,
+        "timestamp": "1669789472"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 981,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1701,
+        "timestamp": "1669876012"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 751,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1508,
+        "timestamp": "1669962539"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 861,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1602,
+        "timestamp": "1670049052"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 473,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1003,
+        "timestamp": "1670135482"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 446,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 857,
+        "timestamp": "1670221892"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 809,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1433,
+        "timestamp": "1670308314"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 577,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1226,
+        "timestamp": "1670395142"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 343,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 771,
+        "timestamp": "1670481766"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 359,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 920,
+        "timestamp": "1670568193"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 323,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 757,
+        "timestamp": "1670654714"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 419,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 820,
+        "timestamp": "1670741165"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 389,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 831,
+        "timestamp": "1670827637"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 477,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 932,
+        "timestamp": "1670914050"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 487,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1050,
+        "timestamp": "1671000467"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 413,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 865,
+        "timestamp": "1671087440"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 573,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1062,
+        "timestamp": "1671173862"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 418,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 885,
+        "timestamp": "1671260304"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 421,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 938,
+        "timestamp": "1671346770"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 360,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 794,
+        "timestamp": "1671433182"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 247,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 660,
+        "timestamp": "1671519783"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 542,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1089,
+        "timestamp": "1671606202"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 692,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1316,
+        "timestamp": "1671692627"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 852,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1253,
+        "timestamp": "1671779322"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 438,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1029,
+        "timestamp": "1671865776"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 629,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1303,
+        "timestamp": "1671952181"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 826,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1314,
+        "timestamp": "1672038969"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 443,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 853,
+        "timestamp": "1672125642"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1370,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1788,
+        "timestamp": "1672212158"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 400,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 798,
+        "timestamp": "1672298650"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1324,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1879,
+        "timestamp": "1672385095"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 846,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1471,
+        "timestamp": "1672471955"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 326,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 695,
+        "timestamp": "1672558376"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 171,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 430,
+        "timestamp": "1672644933"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 419,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 779,
+        "timestamp": "1672731369"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 239,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 619,
+        "timestamp": "1672817865"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 257,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 651,
+        "timestamp": "1672904316"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 282,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 589,
+        "timestamp": "1672990797"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 176,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 548,
+        "timestamp": "1673077304"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 439,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 853,
+        "timestamp": "1673164154"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 263,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 653,
+        "timestamp": "1673250643"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 417,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 885,
+        "timestamp": "1673337066"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 415,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 776,
+        "timestamp": "1673423621"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 623,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 997,
+        "timestamp": "1673510059"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 333,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 640,
+        "timestamp": "1673596937"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 223,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 670,
+        "timestamp": "1673683563"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 398,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 870,
+        "timestamp": "1673770058"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 393,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 801,
+        "timestamp": "1673856536"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 591,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1076,
+        "timestamp": "1673943013"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 430,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 790,
+        "timestamp": "1674029467"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 196,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 486,
+        "timestamp": "1674115949"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 206,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 599,
+        "timestamp": "1674202845"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 237,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 744,
+        "timestamp": "1674289329"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 182,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 491,
+        "timestamp": "1674375741"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 184,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 513,
+        "timestamp": "1674462321"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 253,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 610,
+        "timestamp": "1674548778"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 165,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 547,
+        "timestamp": "1674635474"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 215,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 580,
+        "timestamp": "1674721961"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 194,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 502,
+        "timestamp": "1674808434"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 180,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 474,
+        "timestamp": "1674894921"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 192,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 552,
+        "timestamp": "1674981322"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 204,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 522,
+        "timestamp": "1675067764"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 228,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 566,
+        "timestamp": "1675154188"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 169,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 502,
+        "timestamp": "1675240605"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 196,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 571,
+        "timestamp": "1675327185"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 219,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 579,
+        "timestamp": "1675413789"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 131,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 395,
+        "timestamp": "1675500222"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 169,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 627,
+        "timestamp": "1675586665"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 147,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 519,
+        "timestamp": "1675673372"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 160,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 483,
+        "timestamp": "1675759881"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 178,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 436,
+        "timestamp": "1675846454"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 221,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 541,
+        "timestamp": "1675932954"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 412,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 780,
+        "timestamp": "1676019385"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 268,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 728,
+        "timestamp": "1676105837"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 209,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 716,
+        "timestamp": "1676192375"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 207,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 581,
+        "timestamp": "1676278811"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 202,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 567,
+        "timestamp": "1676365241"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 142,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 358,
+        "timestamp": "1676451644"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 352,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 537,
+        "timestamp": "1676538162"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 412,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 799,
+        "timestamp": "1676624611"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 260,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 637,
+        "timestamp": "1676711065"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 293,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 725,
+        "timestamp": "1676797471"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 291,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 717,
+        "timestamp": "1676883987"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 263,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 563,
+        "timestamp": "1676970402"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 297,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 629,
+        "timestamp": "1677057121"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 260,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 562,
+        "timestamp": "1677143550"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 427,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 761,
+        "timestamp": "1677230067"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 350,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 743,
+        "timestamp": "1677316527"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 310,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 637,
+        "timestamp": "1677402974"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 308,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 692,
+        "timestamp": "1677489402"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 289,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 696,
+        "timestamp": "1677575825"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 326,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 733,
+        "timestamp": "1677662267"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 229,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 541,
+        "timestamp": "1677748722"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 244,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 572,
+        "timestamp": "1677835136"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 260,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 654,
+        "timestamp": "1677921597"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 198,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 469,
+        "timestamp": "1678008120"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 264,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 581,
+        "timestamp": "1678094678"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 232,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 527,
+        "timestamp": "1678181196"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 222,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 509,
+        "timestamp": "1678267602"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 230,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 512,
+        "timestamp": "1678354017"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 271,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 484,
+        "timestamp": "1678440464"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 279,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 583,
+        "timestamp": "1678526929"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 124,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 345,
+        "timestamp": "1678613692"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 130,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 263,
+        "timestamp": "1678700106"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 189,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 374,
+        "timestamp": "1678787099"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 180,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 339,
+        "timestamp": "1678873532"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 178,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 363,
+        "timestamp": "1678960182"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 309,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 669,
+        "timestamp": "1679046798"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 214,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 573,
+        "timestamp": "1679133519"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 210,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 672,
+        "timestamp": "1679220039"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 223,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 593,
+        "timestamp": "1679306445"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 240,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 613,
+        "timestamp": "1679392929"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 250,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 965,
+        "timestamp": "1679479641"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 286,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 764,
+        "timestamp": "1679566228"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 417,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1293,
+        "timestamp": "1679652646"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 284,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 620,
+        "timestamp": "1679739054"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 256,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 549,
+        "timestamp": "1679825478"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 200,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 471,
+        "timestamp": "1679912031"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 212,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 458,
+        "timestamp": "1679998543"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 262,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 541,
+        "timestamp": "1680084960"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 219,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 426,
+        "timestamp": "1680171384"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 849,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1299,
+        "timestamp": "1680258183"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 383,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 717,
+        "timestamp": "1680344591"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 469,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 905,
+        "timestamp": "1680431122"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 445,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 817,
+        "timestamp": "1680517530"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 650,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 997,
+        "timestamp": "1680604075"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 313,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 491,
+        "timestamp": "1680690477"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 399,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 586,
+        "timestamp": "1680776899"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 507,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 782,
+        "timestamp": "1680863374"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 411,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 858,
+        "timestamp": "1680949789"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 502,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 990,
+        "timestamp": "1681036239"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 461,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 886,
+        "timestamp": "1681122684"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 454,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 739,
+        "timestamp": "1681209121"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 468,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 821,
+        "timestamp": "1681295547"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 556,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1072,
+        "timestamp": "1681381992"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 324,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 571,
+        "timestamp": "1681468521"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 242,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 579,
+        "timestamp": "1681555050"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 221,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 453,
+        "timestamp": "1681641655"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 195,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 481,
+        "timestamp": "1681728083"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 177,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 444,
+        "timestamp": "1681815879"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 135,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 536,
+        "timestamp": "1681902313"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 133,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1791,
+        "timestamp": "1681988717"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 152,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1929,
+        "timestamp": "1682075133"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 140,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1953,
+        "timestamp": "1682161534"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 154,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 839,
+        "timestamp": "1682248005"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 201,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 526,
+        "timestamp": "1682334461"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 166,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 320,
+        "timestamp": "1682420973"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 54,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 357,
+        "timestamp": "1682507503"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 48,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 59,
+        "timestamp": "1682594146"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 85,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 92,
+        "timestamp": "1682680591"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 46,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 53,
+        "timestamp": "1682768453"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 65,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 107,
+        "timestamp": "1682855260"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 62,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 140,
+        "timestamp": "1682942308"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 79,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 179,
+        "timestamp": "1683028714"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 102,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 170,
+        "timestamp": "1683115120"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 179,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 335,
+        "timestamp": "1683201817"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 105,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 172,
+        "timestamp": "1683289086"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 51,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 79,
+        "timestamp": "1683375630"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 46,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 72,
+        "timestamp": "1683462945"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 47,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 70,
+        "timestamp": "1683550193"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 64,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 139,
+        "timestamp": "1683636744"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 101,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 171,
+        "timestamp": "1683724108"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 76,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 157,
+        "timestamp": "1683812363"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 140,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 183,
+        "timestamp": "1683898862"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 377,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 459,
+        "timestamp": "1683985404"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 385,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 521,
+        "timestamp": "1684071866"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 354,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 454,
+        "timestamp": "1684158295"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 446,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 595,
+        "timestamp": "1684245065"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 254,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 415,
+        "timestamp": "1684331472"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 473,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 614,
+        "timestamp": "1684417914"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 246,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 409,
+        "timestamp": "1684504790"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 156,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 373,
+        "timestamp": "1684591358"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 232,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 465,
+        "timestamp": "1684678118"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 170,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 314,
+        "timestamp": "1684764545"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 196,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 400,
+        "timestamp": "1684850979"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 157,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 317,
+        "timestamp": "1684937417"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 237,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 354,
+        "timestamp": "1685024255"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 226,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 318,
+        "timestamp": "1685111081"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 236,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 332,
+        "timestamp": "1685197563"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 249,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 393,
+        "timestamp": "1685284180"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 172,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 335,
+        "timestamp": "1685370851"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 187,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 281,
+        "timestamp": "1685457477"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 173,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 281,
+        "timestamp": "1685543948"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 173,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 276,
+        "timestamp": "1685631720"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 162,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 232,
+        "timestamp": "1685720019"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 258,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 349,
+        "timestamp": "1685806514"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 182,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 279,
+        "timestamp": "1685892994"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 200,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 382,
+        "timestamp": "1685980005"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 161,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 261,
+        "timestamp": "1686066900"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 154,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 248,
+        "timestamp": "1686153363"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 473,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 731,
+        "timestamp": "1686239819"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 313,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 485,
+        "timestamp": "1686326223"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 364,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 521,
+        "timestamp": "1686412717"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 253,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 365,
+        "timestamp": "1686499265"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 259,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 436,
+        "timestamp": "1686585701"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 358,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 549,
+        "timestamp": "1686672153"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 342,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 611,
+        "timestamp": "1686758617"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 257,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 536,
+        "timestamp": "1686845229"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 264,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 556,
+        "timestamp": "1686932219"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 225,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 472,
+        "timestamp": "1687018621"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 286,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 474,
+        "timestamp": "1687105039"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 296,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 532,
+        "timestamp": "1687191659"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 313,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 468,
+        "timestamp": "1687278123"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 239,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 398,
+        "timestamp": "1687365601"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 320,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 423,
+        "timestamp": "1687452163"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 412,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 582,
+        "timestamp": "1687538667"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 400,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 601,
+        "timestamp": "1687625683"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 464,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 650,
+        "timestamp": "1687712149"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 498,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 729,
+        "timestamp": "1687798961"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1208,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1419,
+        "timestamp": "1687885439"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 840,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1025,
+        "timestamp": "1687971923"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 726,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 948,
+        "timestamp": "1688058427"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 573,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 734,
+        "timestamp": "1688144877"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 728,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1014,
+        "timestamp": "1688231329"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 562,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 749,
+        "timestamp": "1688317799"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 644,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 891,
+        "timestamp": "1688404675"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 399,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 598,
+        "timestamp": "1688491127"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 199,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 287,
+        "timestamp": "1688577573"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 554,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 701,
+        "timestamp": "1688664007"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 456,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 718,
+        "timestamp": "1688750507"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 676,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 970,
+        "timestamp": "1688836937"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 793,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1275,
+        "timestamp": "1688923537"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 630,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1054,
+        "timestamp": "1689010095"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 585,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 949,
+        "timestamp": "1689096613"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 466,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 794,
+        "timestamp": "1689183391"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 530,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 760,
+        "timestamp": "1689269881"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 503,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 710,
+        "timestamp": "1689356313"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 543,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 826,
+        "timestamp": "1689442735"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 452,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 721,
+        "timestamp": "1689529185"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 429,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 662,
+        "timestamp": "1689615591"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 443,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 638,
+        "timestamp": "1689702177"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 508,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 751,
+        "timestamp": "1689788641"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 459,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 695,
+        "timestamp": "1689875283"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 392,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 572,
+        "timestamp": "1689961693"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 439,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 625,
+        "timestamp": "1690048141"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 533,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 806,
+        "timestamp": "1690134561"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 447,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 728,
+        "timestamp": "1690221001"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 438,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 641,
+        "timestamp": "1690307467"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 632,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 890,
+        "timestamp": "1690394085"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 540,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 839,
+        "timestamp": "1690480655"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 709,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 981,
+        "timestamp": "1690567183"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 821,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1064,
+        "timestamp": "1690653779"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1105,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1391,
+        "timestamp": "1690740347"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 675,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 961,
+        "timestamp": "1690826817"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 435,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 664,
+        "timestamp": "1690913267"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 338,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 519,
+        "timestamp": "1690999695"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 719,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1107,
+        "timestamp": "1691086285"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 731,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1021,
+        "timestamp": "1691172989"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 763,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1085,
+        "timestamp": "1691259395"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 730,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1135,
+        "timestamp": "1691345895"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 538,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 918,
+        "timestamp": "1691432603"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 536,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 889,
+        "timestamp": "1691519185"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 484,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 817,
+        "timestamp": "1691605843"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 538,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 919,
+        "timestamp": "1691692403"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 528,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 781,
+        "timestamp": "1691778825"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 690,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1038,
+        "timestamp": "1691865359"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 556,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 999,
+        "timestamp": "1691952337"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 575,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 886,
+        "timestamp": "1692038975"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1115,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1491,
+        "timestamp": "1692125481"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1801,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2388,
+        "timestamp": "1692211951"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1359,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1796,
+        "timestamp": "1692298395"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1168,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1652,
+        "timestamp": "1692384809"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 985,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1386,
+        "timestamp": "1692471217"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1128,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1722,
+        "timestamp": "1692557633"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1352,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2109,
+        "timestamp": "1692644079"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 806,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1419,
+        "timestamp": "1692730535"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 953,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1706,
+        "timestamp": "1692816947"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1505,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 3025,
+        "timestamp": "1692903473"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1579,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 3117,
+        "timestamp": "1692989881"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1969,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 3879,
+        "timestamp": "1693076299"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 2352,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 4569,
+        "timestamp": "1693162733"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1565,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2833,
+        "timestamp": "1693249187"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1491,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2768,
+        "timestamp": "1693335597"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1324,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2560,
+        "timestamp": "1693422009"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1292,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2598,
+        "timestamp": "1693508439"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 541,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1001,
+        "timestamp": "1693594849"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 309,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 641,
+        "timestamp": "1693681423"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 477,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1086,
+        "timestamp": "1693768071"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 368,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 841,
+        "timestamp": "1693854553"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 363,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 842,
+        "timestamp": "1693940997"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 491,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 989,
+        "timestamp": "1694027429"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 517,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 924,
+        "timestamp": "1694114109"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1200,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2159,
+        "timestamp": "1694200569"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1820,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 3310,
+        "timestamp": "1694287055"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1776,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 3138,
+        "timestamp": "1694373465"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1265,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2469,
+        "timestamp": "1694459913"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1061,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2067,
+        "timestamp": "1694546355"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 921,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1808,
+        "timestamp": "1694632861"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1406,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2545,
+        "timestamp": "1694719293"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1302,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2750,
+        "timestamp": "1694805703"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1280,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2968,
+        "timestamp": "1694892183"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1422,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 3183,
+        "timestamp": "1694978621"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1242,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2564,
+        "timestamp": "1695065033"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1380,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2797,
+        "timestamp": "1695151545"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1350,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2574,
+        "timestamp": "1695237995"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1250,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2317,
+        "timestamp": "1695324411"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1403,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2574,
+        "timestamp": "1695410931"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1566,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2692,
+        "timestamp": "1695497469"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1648,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2884,
+        "timestamp": "1695583887"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1643,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 4440,
+        "timestamp": "1695670351"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1435,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2481,
+        "timestamp": "1695756759"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1770,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 3635,
+        "timestamp": "1695843233"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1719,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 3407,
+        "timestamp": "1695929687"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1717,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 3043,
+        "timestamp": "1696016139"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1895,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 3337,
+        "timestamp": "1696102637"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1636,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 3130,
+        "timestamp": "1696189053"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1667,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2727,
+        "timestamp": "1696275533"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1569,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2644,
+        "timestamp": "1696361963"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1504,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2502,
+        "timestamp": "1696448447"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1742,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 3355,
+        "timestamp": "1696534891"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1491,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2941,
+        "timestamp": "1696621295"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1585,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2904,
+        "timestamp": "1696707709"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1765,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 3235,
+        "timestamp": "1696794111"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1505,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2583,
+        "timestamp": "1696880585"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1581,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2732,
+        "timestamp": "1696967013"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1625,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2830,
+        "timestamp": "1697053557"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1405,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2748,
+        "timestamp": "1697139965"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1259,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2506,
+        "timestamp": "1697226393"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1660,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2998,
+        "timestamp": "1697312859"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1754,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 3052,
+        "timestamp": "1697399289"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1365,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2418,
+        "timestamp": "1697485751"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1363,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2866,
+        "timestamp": "1697572183"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1227,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2130,
+        "timestamp": "1697658655"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 924,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2053,
+        "timestamp": "1697745095"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 916,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1818,
+        "timestamp": "1697831637"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1079,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2129,
+        "timestamp": "1697918059"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1272,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2478,
+        "timestamp": "1698004505"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1005,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1996,
+        "timestamp": "1698091021"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 728,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1450,
+        "timestamp": "1698177551"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 968,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1848,
+        "timestamp": "1698263975"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 796,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1568,
+        "timestamp": "1698350479"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 824,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1655,
+        "timestamp": "1698436993"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 900,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1833,
+        "timestamp": "1698523549"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 989,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1970,
+        "timestamp": "1698609989"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 892,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1671,
+        "timestamp": "1698696405"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 758,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1470,
+        "timestamp": "1698782851"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 910,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1885,
+        "timestamp": "1698869289"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 766,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1783,
+        "timestamp": "1698955745"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 849,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1771,
+        "timestamp": "1699042233"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1068,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2035,
+        "timestamp": "1699128711"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1208,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2260,
+        "timestamp": "1699215119"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 962,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1732,
+        "timestamp": "1699301543"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 883,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1889,
+        "timestamp": "1699387945"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1282,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2347,
+        "timestamp": "1699474981"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1048,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1633,
+        "timestamp": "1699561401"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1082,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1596,
+        "timestamp": "1699647855"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1608,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2436,
+        "timestamp": "1699734335"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1530,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2586,
+        "timestamp": "1699820813"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 912,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1528,
+        "timestamp": "1699907257"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1122,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1839,
+        "timestamp": "1699993683"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 886,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1579,
+        "timestamp": "1700080113"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 757,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1399,
+        "timestamp": "1700166737"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 708,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1590,
+        "timestamp": "1700253155"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 880,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1964,
+        "timestamp": "1700339561"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1095,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2423,
+        "timestamp": "1700426031"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 716,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1363,
+        "timestamp": "1700512577"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 713,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1673,
+        "timestamp": "1700598985"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 759,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1758,
+        "timestamp": "1700685463"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 630,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1377,
+        "timestamp": "1700771933"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 971,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2166,
+        "timestamp": "1700858353"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1206,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2795,
+        "timestamp": "1700944795"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1212,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2831,
+        "timestamp": "1701031253"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 908,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1887,
+        "timestamp": "1701117781"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 767,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1565,
+        "timestamp": "1701204345"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1241,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2488,
+        "timestamp": "1701290927"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1019,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1911,
+        "timestamp": "1701377761"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 684,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1560,
+        "timestamp": "1701464625"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1168,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2987,
+        "timestamp": "1701551057"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1319,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 3417,
+        "timestamp": "1701637631"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1024,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2317,
+        "timestamp": "1701724069"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 781,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2018,
+        "timestamp": "1701810593"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1081,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2515,
+        "timestamp": "1701897253"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1408,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2614,
+        "timestamp": "1701983683"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1802,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 3067,
+        "timestamp": "1702070115"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1913,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 3433,
+        "timestamp": "1702156519"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 2305,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 4167,
+        "timestamp": "1702242943"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1831,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 3425,
+        "timestamp": "1702329467"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1570,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2797,
+        "timestamp": "1702415941"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1450,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2601,
+        "timestamp": "1702502381"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1145,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2031,
+        "timestamp": "1702588925"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 838,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1668,
+        "timestamp": "1702675523"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 955,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2074,
+        "timestamp": "1702762021"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1108,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 3023,
+        "timestamp": "1702848431"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1396,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2792,
+        "timestamp": "1702934867"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1425,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2843,
+        "timestamp": "1703021307"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1255,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2461,
+        "timestamp": "1703107721"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1819,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 3176,
+        "timestamp": "1703194129"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 2186,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 3617,
+        "timestamp": "1703280535"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 2563,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 4713,
+        "timestamp": "1703366963"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 2410,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 4695,
+        "timestamp": "1703453403"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1723,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 3750,
+        "timestamp": "1703539839"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 2516,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 4839,
+        "timestamp": "1703626241"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 2185,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 4610,
+        "timestamp": "1703712645"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 2055,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 3749,
+        "timestamp": "1703799099"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 2232,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 3976,
+        "timestamp": "1703885529"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 2424,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 4383,
+        "timestamp": "1703971983"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 2461,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 4398,
+        "timestamp": "1704058387"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1675,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 3266,
+        "timestamp": "1704144813"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1500,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2752,
+        "timestamp": "1704231295"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1414,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2532,
+        "timestamp": "1704317697"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1726,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2956,
+        "timestamp": "1704404127"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1643,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2780,
+        "timestamp": "1704490565"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1604,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2815,
+        "timestamp": "1704577097"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1172,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2104,
+        "timestamp": "1704663515"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1260,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2402,
+        "timestamp": "1704749943"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1535,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2885,
+        "timestamp": "1704836353"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1061,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1827,
+        "timestamp": "1704922833"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1111,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2046,
+        "timestamp": "1705009245"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1194,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2305,
+        "timestamp": "1705095691"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1776,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 3163,
+        "timestamp": "1705182163"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1222,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2209,
+        "timestamp": "1705268615"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1500,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2685,
+        "timestamp": "1705355059"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1132,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1843,
+        "timestamp": "1705441477"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 720,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1181,
+        "timestamp": "1705528081"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 759,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1269,
+        "timestamp": "1705614495"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 957,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1687,
+        "timestamp": "1705700935"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1775,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2844,
+        "timestamp": "1705787411"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1862,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 3188,
+        "timestamp": "1705873839"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1359,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2429,
+        "timestamp": "1705960281"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1492,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2585,
+        "timestamp": "1706046699"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1572,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2889,
+        "timestamp": "1706133123"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1480,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2526,
+        "timestamp": "1706219575"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1455,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 4137,
+        "timestamp": "1706305985"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1953,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 4541,
+        "timestamp": "1706392415"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 2423,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 6155,
+        "timestamp": "1706478817"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 2425,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 6455,
+        "timestamp": "1706565219"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 2302,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 5259,
+        "timestamp": "1706651625"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1494,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 3749,
+        "timestamp": "1706738085"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1415,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 3219,
+        "timestamp": "1706824507"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1370,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 3106,
+        "timestamp": "1706911003"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1558,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 3245,
+        "timestamp": "1706997411"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1820,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 3604,
+        "timestamp": "1707083813"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1547,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 3178,
+        "timestamp": "1707170221"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1102,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2177,
+        "timestamp": "1707256633"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1153,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2333,
+        "timestamp": "1707343067"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1092,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 2208,
+        "timestamp": "1707429519"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 832,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 1670,
+        "timestamp": "1707515921"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1491,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 3208,
+        "timestamp": "1707602335"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1893,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 3718,
+        "timestamp": "1707688739"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 1666,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 3038,
+        "timestamp": "1707775187"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 2229,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 5165,
+        "timestamp": "1707861591"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 2046,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 5292,
+        "timestamp": "1707948007"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 2030,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 4540,
+        "timestamp": "1708034423"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 2380,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 5025,
+        "timestamp": "1708120835"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 3240,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 7167,
+        "timestamp": "1708207261"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 3451,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 7819,
+        "timestamp": "1708293671"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 2819,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 6411,
+        "timestamp": "1708380079"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 2421,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 4907,
+        "timestamp": "1708466503"
+      },
+      {
+        "dailyActiveLiquidityProviders": 0,
+        "dailyActiveUsers": 2226,
+        "dailyLiquidityDepositCount": 0,
+        "dailyLiquidityWithdrawCount": 0,
+        "dailyTransactionCount": 4886,
+        "timestamp": "1709030769"
+      }
+    ]
+  }
+}
