@@ -46,7 +46,7 @@ The script is written in R. Fundamental functions are:
 ## 2 — Data
 
 The dataset includes the data of 3 cross-chain bridge protocols (Stargate, Across v2, Hop Protocol) across 6 blockchains (Ethereum, Avalanche, Binance Smart Chain, Polygon, Arbitrum and Optimism).
-Data has a daily frequency and covers the period: 5 May 2022 to 21 February 2024. The period covers the days on which all three protocols have full data availability.
+Data has a daily frequency and covers the period: 25 May 2022 to 21 February 2024. The period covers the days on which all three protocols have full data availability.
 
 Separate raw data files are uploaded to the `data/` folder. The source of protocol data is The Graph. ETH and POL price data are collected from Etherscan and Polygonscan.
 
