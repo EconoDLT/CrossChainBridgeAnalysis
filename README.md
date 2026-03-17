@@ -51,9 +51,7 @@ Data has a daily frequency and covers the period: 5 May 2022 to 21 February 2024
 Separate raw data files are uploaded to the `data/` folder. The source of protocol data is The Graph. ETH and POL price data are collected from Etherscan and Polygonscan.
 
 The following variables are included in the dataset:
-- Core Financial Metrics: `Revenue` (Total revenue of Renzo Protocol), `TVL0`, (EigenLayer TVL), `TVL1` (Renzo TVL on Ethereum), `TVL2` (Renzo TVL on L2s),   `Share` (ezETH share in the liquid restaking market), `Premium` (ezETH premium variable), `ETH` (ETH price).
-- Yield Data: `Yield` (ezETH yield rate), `APY` (stETH APY as the benchmark DeFi yield).
-- Market Sentiment: `FGI` (Fear and Greed Index).
-- Network Control Variables: `GasPrice`.
-- Dummy Variable For Tokenization Events: `Events`.
+- Core Financial Metrics: `Revenue` (total revenue of protocol), `TVL`, (total value locked in the smart contracts of bridge protocol), `Volume` (USD value of transferred crypto-assets through bridge protocol).
+- Control Variables: `TxCount` (number of transactions made through bridge protocol), `GasPrice` (network volatility is controlled), `ETH` (ETH price as the benchmark asset used in DeFi).
+
 ---
