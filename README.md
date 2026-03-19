@@ -1,17 +1,15 @@
-# CrossChainBridgeAnalysis
+# Connecting Distributed Ledgers: Surveying Novel Interoperability Solutions in On-chain Finance
 **Interoperability, Bridge Protocols, Surveying, and Statistical Modelling to Examine the Impact of Bridge Protocols on DeFi/On-Chain Finance**
 
-This repository contains the collected data, the R code used, additional explanations and clarifications for the research paper that analyzes the impact of cross-chain bridge protocols on on-chain financial services.
+This repository contains the collected data, the R code used, additional explanations and clarifications for the following research paper that analyzes the impact of cross-chain bridge protocols on on-chain financial services:
+
+[CITATION + arXiv Link]
+
+***Abstract: This paper emphasizes the critical role of interoperability in enabling efficient and secure communication for the fragmented distributed ledger ecosystem, particularly within on-chain finance. The purpose of this study is to streamline and accelerate empirical research on the intersection of cross-chain interoperability solutions and their impact within on-chain finance. The analysis examines the relationship between financial use and interoperability while comparing the properties of novel cross-chain interoperability protocols (LayerZero, Wormhole, Connext, Chainlink Cross-Chain Interoperability Protocol, Circle Cross-chain Transfer Protocol, Hop Protocol, Across, Polkadot, and Cosmos), focusing on their design, mechanisms, consensus, and limitations. To encourage further empirical study, the paper proposes a set of network metrics and sample statistical models, providing a framework for evaluating the performance and financial implications of interoperability solutions.***
+
+**Keywords:** Distributed Ledger Technologies, Blockchain, Cross-Chain Interoperability, Decentralized Finance
 
 **Related Skills/Knowledge:** Interoperability, Distributed Systems, Qualitative Comparison, Econometrics, Statistical Modelling.
-
----
-
-## [REDACTED - PAPER TITLE]
-
-`{CITATION]`
-
-[ABSTRACT - KEY WORDS]
 
 ---
 
