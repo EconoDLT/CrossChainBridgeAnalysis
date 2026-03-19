@@ -41,6 +41,8 @@ The script is written in R. Fundamental functions are:
 - `summary()` to calculate summary statistics.
 - `mutate()` to create new variables. `log()` for logarihmic transformation, `asinh()` for inverse hyperbolic sine (a way to handle negative values like net volume in a log-like fashion).
 
+**Configuration:** `data/` directory should be set to run the script.
+
 ---
 
 ## 2 — Data
