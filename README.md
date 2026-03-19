@@ -1,5 +1,4 @@
 # Connecting Distributed Ledgers: Surveying Novel Interoperability Solutions in On-chain Finance
-**Interoperability, Bridge Protocols, Surveying, and Statistical Modelling to Examine the Impact of Bridge Protocols on DeFi/On-Chain Finance**
 
 This repository contains the collected data, the R code used, additional explanations and clarifications for the following research paper that analyzes the impact of cross-chain bridge protocols on on-chain financial services:
 
