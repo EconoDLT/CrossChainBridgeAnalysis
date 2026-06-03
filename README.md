@@ -54,5 +54,3 @@ The following variables are included in the dataset:
 - Control Variables: `TxCount` (number of transactions made through bridge protocol), `GasPrice` (network volatility is controlled), `ETH` (ETH price as the benchmark asset used in DeFi).
 
 ---
-
-Contact for more details and clarifications: hasretozan.sevim@unicatt.it
