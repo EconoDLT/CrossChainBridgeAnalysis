@@ -21,7 +21,7 @@ RestakingDynamics/
 │
 ├── bridge_analysis.R                    # Code to analyze the data
 │
-└── data/                                # This folder includes multiple raw data files
+└── data/                                # This folder includes multiple data files
 ```
 
 ---
@@ -47,7 +47,7 @@ The script is written in R. Fundamental functions are:
 The dataset includes the data of 3 cross-chain bridge protocols (Stargate, Across v2, Hop Protocol) across 6 blockchains (Ethereum, Avalanche, Binance Smart Chain, Polygon, Arbitrum and Optimism).
 Data has a daily frequency and covers the period: 25 May 2022 to 21 February 2024. The period covers the days on which all three protocols have full data availability.
 
-Separate raw data files are uploaded to the `data/` folder. The source of protocol data is The Graph. ETH and POL price data are collected from Etherscan and Polygonscan.
+Separate data files are uploaded to the `data/` folder. The source of protocol data is The Graph. ETH and POL price data are collected from Etherscan and Polygonscan.
 
 The following variables are included in the dataset:
 - Core Financial Metrics: `Revenue` (total revenue of protocol), `TVL`, (total value locked in the smart contracts of bridge protocol), `Volume` (USD value of transferred crypto-assets through bridge protocol).
